@@ -1,9 +1,17 @@
 from fastapi import FastAPI
 import logging
-from tdb import TINYDB
+from  scripts.configuration import load_config,setup_logger
+from scripts.tdb import TINYDB
+from pydantic import BaseModel
+from datetime import datetime
 
 app = FastAPI()
+
+config = load_config()
+setup_logger(config)
 logger = logging.getLogger("DEFAULT_LOGGER")
+tiny = TINYDB()
+logger.info("init webapp")
 
 
 @app.get("/")
@@ -12,8 +20,26 @@ async def root():
     tiny.insert({"event":"root_call"})
     return {"message": "Hello World"}
 
-if __name__=="__main__":
-    config = configuration.load_config()
-    configuration.setup_logger(config)
-    tiny = TINYDB()
+class Task(BaseModel):
+    task_event_id: int
+    task_id: int
+    task_name: str
+    task_status: str
+    task_priority: str
+    timeStamp: datetime
+    task_active:bool
+
+@app.post("/log_task/")
+async def log_task(task: Task):
+    logger.info(f"task recieved {task}")
+    tiny.insert(task)
+    return task
+
+@app.get("/all_tasks/")
+async def all_tasks():
+    logger.info("get all tasks")
+    db_all = tiny.get_all()
+    return db_all
+
+
 

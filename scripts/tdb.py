@@ -1,5 +1,4 @@
 from tinydb import TinyDB, Query
-import configuration
 import logging
 
 logger = logging.getLogger("DEFAULT_LOGGER")
@@ -9,6 +8,7 @@ class TINYDB():
     def __init__(self, db_name="db.json"):
         self.db_name = db_name
         self.db = TinyDB(db_name)
+        logger.info("init_tiny_db")
 
     def insert(self, dict):
         logger.info(f"inserting data: {dict}")
@@ -18,16 +18,12 @@ class TINYDB():
         logger.info('get all data')
         return self.db.all()
 
-    
 
-
-def main():
-    logger.info('init tiny db')
 
 if __name__ == "__main__":
-    config = configuration.load_config()
-    configuration.setup_logger(config)
-    main()
+    pass
+
+
     
    
     
