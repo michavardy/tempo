@@ -1,0 +1,12 @@
+.task_card{
+    padding:10px;
+    display:flex;
+    flex-direction:row;
+    border:1px solid black;
+    width:500px;
+}
+.task_field{
+    padding:2px;
+    display:flex;
+    flex-direction:column;
+}

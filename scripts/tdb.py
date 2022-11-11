@@ -23,21 +23,3 @@ class TINYDB():
 if __name__ == "__main__":
     pass
 
-
-    
-   
-    
-
-
-    #task_event_id = Column(Integer, primary_key=True, index=True)
-    #task_id = Column(Integer, index=True)
-    #task_name = Column(String)
-    #task_status = Column(String)
-    #task_priority = Column(String)
-    #timeStamp = Column(DateTime(timezone=True), server_default=func.now())
-    #task_active = Column(Boolean)
-
-    #db = TinyDB('db.json')
-    #db.insert({'type': 'apple', 'count': 7})
-    #db.insert({'type': 'peach', 'count': 3})
-    #print(db.all())

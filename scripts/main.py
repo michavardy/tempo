@@ -27,7 +27,8 @@ class Task(BaseModel):
     task_status: str
     task_priority: str
     timeStamp: datetime
-    task_active:bool
+    task_active: bool
+    time_recorded: int
 
 @app.post("/log_task/")
 async def log_task(task: Task):

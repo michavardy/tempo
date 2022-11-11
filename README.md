@@ -1,43 +1,49 @@
-# REACT SETUP SCRIPT
-effortless way to set up hello world in react
-![hello world](./hello_world.gif)
+# Tempo
+a simple task manager application to demonstrate minimal full stack 
+![screenShot](screenShot.PNG)
 
 ---
-## TO setup
-1. make scripts executable
+## prerequisits
+- [python](https://www.python.org/downloads/)
+- [node](https://nodejs.org/en/download/)
+- [git/bash](https://git-scm.com/downloads)
+---
+## TO setup (windows git/bash terminal)
+#### Note: for linux or mac users, directions might be slightly different like how to activate python virtual environment
+1. clone directory
 ```
-    chmod +x setup.sh
-    chmod +x create-react-app-script.sh
+    cd <programs-directory>
+    git clone https://github.com/michavardy/tempo.git
+    cd tempo
 ```
-2. run setup script once
+2. download required node packages
 ```
-    sh setup.sh
+    npm install
 ```
-3. source ~/.bashrc
+3. activate python virtual environment
 
 ```
-    source ~/.bashrc
+    . temp/Scripts/activate
+```
+4. pip install required python packages
+
+```
+    cd scripts
+    pip install requirments.txt
+```
+5. make bash files executible
+
+```
+    chmode +x run_webServer.sh
+    cd ..
+    chmode +x run.sh
 ```
 ---
-
-## Options
-    -h help
-    -s simplified script
-
 ## To Run
-1. run script as a CLI
 ```
-    REACT-SETUP <option> <project-name>
+    sh ./run.sh
 ```
-2. cd into project directory
-```
-    cd <project-name>
-```
-3. start up server
-```
-    npm start
-```
-4. if react-scripts is not recoginized
-```
-    npm install react-scripts --save
-```
+---
+
+
+
