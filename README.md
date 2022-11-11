@@ -6,6 +6,7 @@ a simple task manager application to demonstrate minimal full stack
 ## prerequisits
 - [python](https://www.python.org/downloads/)
 - [node](https://nodejs.org/en/download/)
+#### for windows only
 - [git/bash](https://git-scm.com/downloads)
 ---
 ## TO setup (windows git/bash terminal)
@@ -23,7 +24,7 @@ a simple task manager application to demonstrate minimal full stack
 3. activate python virtual environment
 
 ```
-    . temp/Scripts/activate
+    . tempo/Scripts/activate
 ```
 4. pip install required python packages
 
@@ -44,6 +45,29 @@ a simple task manager application to demonstrate minimal full stack
     sh ./run.sh
 ```
 ---
+## Project structure
+```
+
+|-- scripts
+|   |-- __init__.py
+|   |-- config.ini
+|   |-- configuration.py
+|   |-- main.py
+|   |-- requirments.txt
+|   |-- run_webServer.sh
+|   `-- tdb.py
+|-- src
+|   |-- App.css
+|   |-- App.jsx
+|   |-- Task.css
+|   |-- Task.jsx
+|   `-- index.js
+|-- public
+|   `-- index.html
+|-- db.json
+|-- run.sh
+
+```
 
 
 
