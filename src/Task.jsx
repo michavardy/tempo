@@ -27,26 +27,24 @@ export default function Task(props){
     };
   },[state.timerOn])
 
-  useEffect(() => {
-    // POST request using fetch inside useEffect React hook
-    const requestOptions = {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ 
-          task_event_id: 0,
-          task_id: state.taskID,
-          task_name: state.task_name,
-          task_status: state.status,
-          task_priority: state.priority,
-          timeStamp: state.timeStamp,
-          task_active: state.timerOn,
-          time_recorded: time
-         })
-    };
-    fetch('http://localhost:8000/', requestOptions)
-
-
-}, [post]);
+  //useEffect(() => {
+  //  // POST request using fetch inside useEffect React hook
+  //  const requestOptions = {
+  //      method: 'POST',
+  //      headers: { 'Content-Type': 'application/json' },
+  //      body: JSON.stringify({ 
+  //        task_event_id: 0,
+  //        task_id: state.taskID,
+  //        task_name: state.task_name,
+  //        task_status: state.status,
+  //        task_priority: state.priority,
+  //        timeStamp: state.timeStamp,
+  //        task_active: state.timerOn,
+  //        time_recorded: time
+  //       })
+  //  };
+  //  fetch('http://localhost:8000/', requestOptions)
+  //  }, [post]);
 
 
 
