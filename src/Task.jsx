@@ -8,11 +8,12 @@ const initialState = {
   timerOn:false,
   status:"pending",
   priority:"na",
-  timeStamp:null
+  timeStamp:null,
 }
 
 export default function Task(props){
   const [time,setTime] = useState(0)
+  const [post,setPost] = useState(0)
   const [state, dispatch] = useReducer(reducer, initialState)
   state.taskID = props.ID
   const timerID = useRef(0)
@@ -25,6 +26,28 @@ export default function Task(props){
       timerID.current=0;
     };
   },[state.timerOn])
+
+  useEffect(() => {
+    // POST request using fetch inside useEffect React hook
+    const requestOptions = {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+          task_event_id: 0,
+          task_id: state.taskID,
+          task_name: state.task_name,
+          task_status: state.status,
+          task_priority: state.priority,
+          timeStamp: state.timeStamp,
+          task_active: state.timerOn,
+          time_recorded: time
+         })
+    };
+    fetch('http://localhost:8000/', requestOptions)
+
+
+}, [post]);
+
 
 
   return (
@@ -57,7 +80,7 @@ export default function Task(props){
         </div>
         <div className="task_field">
           <label>submit</label>
-          <button onClick={console.log(state)}>submit</button>
+          <button onClick={setPost("click")}>submit</button>
         </div>
 
     </div>

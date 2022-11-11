@@ -11,7 +11,6 @@ const App = () => {
   const createTaskHandler = ()=>{
     setTaskArray(taskArray.concat(<Task ID={taskID} key={taskID}/>));
     setTaskID(taskID + 1)
-    console.log(taskArray);
   }
   
   return (
