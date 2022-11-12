@@ -111,3 +111,400 @@
 2022-11-11 06:45:43,228 - DEFAULT_LOGGER - INFO - init logger
 2022-11-11 06:45:43,228 - DEFAULT_LOGGER - INFO - init_tiny_db
 2022-11-11 06:45:43,228 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 06:57:08,845 - DEFAULT_LOGGER - INFO - root api triggered
+2022-11-11 06:57:08,845 - DEFAULT_LOGGER - INFO - inserting data: {'event': 'root_call'}
+2022-11-11 09:28:26,191 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:28:26,192 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:28:26,193 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:28:26,213 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:28:26,216 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:28:26,217 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:28:26,221 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:28:26,226 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:28:26,227 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:28:26,229 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:28:26,229 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:28:26,232 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:28:26,234 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:28:26,237 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:28:26,238 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:28:26,300 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:28:26,301 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:28:26,302 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:36:26,442 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:36:26,443 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:36:26,444 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:36:26,451 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:36:26,452 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:36:26,452 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:36:26,458 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:36:26,459 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:36:26,459 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:36:26,460 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:36:26,461 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:36:26,461 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:36:26,471 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:36:26,472 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:36:26,472 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:36:26,537 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:36:26,537 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:36:26,537 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:38:09,111 - DEFAULT_LOGGER - INFO - task recieved task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:38:09,112 - DEFAULT_LOGGER - INFO - inserting data: task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:38:13,760 - DEFAULT_LOGGER - INFO - task recieved task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:38:13,760 - DEFAULT_LOGGER - INFO - inserting data: task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:38:13,767 - DEFAULT_LOGGER - INFO - task recieved task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:38:13,768 - DEFAULT_LOGGER - INFO - inserting data: task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:38:30,659 - DEFAULT_LOGGER - INFO - task recieved task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:38:30,660 - DEFAULT_LOGGER - INFO - inserting data: task_event_id=0 task_id=1 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:39:46,788 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:46,789 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:46,789 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:46,790 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:46,791 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:46,791 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:46,802 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:46,803 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:46,803 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:46,806 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:46,807 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:46,807 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:46,811 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:46,812 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:46,812 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:46,820 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:46,820 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:46,821 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:52,108 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:52,109 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:52,109 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:52,114 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:52,115 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:52,115 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:52,130 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:52,132 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:52,132 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:52,133 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:52,133 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:52,134 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:52,148 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:52,148 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:52,148 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:52,181 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:39:52,182 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:39:52,182 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:39:55,839 - DEFAULT_LOGGER - INFO - task recieved task_event_id=0 task_id=2 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:39:55,847 - DEFAULT_LOGGER - INFO - task recieved task_event_id=0 task_id=2 task_name='' task_status='pending' task_priority='na' timeStamp=0 task_active=False time_recorded=0
+2022-11-11 09:40:18,760 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:18,761 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:18,761 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:18,765 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:18,766 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:18,767 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:18,767 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:18,767 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:18,767 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:18,767 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:18,768 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:18,769 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:18,779 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:18,779 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:18,780 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:18,789 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:18,790 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:18,791 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:20,937 - DEFAULT_LOGGER - INFO - task recieved <class 'scripts.main.Task'>
+2022-11-11 09:40:20,938 - DEFAULT_LOGGER - INFO - task recieved <class 'scripts.main.Task'>
+2022-11-11 09:40:33,804 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:33,806 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:33,807 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:33,808 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:33,809 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:33,809 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:33,810 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:33,810 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:33,810 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:33,816 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:33,817 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:33,817 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:33,826 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:33,826 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:33,827 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:33,834 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:33,835 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:33,835 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:36,084 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:40:36,085 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:40:48,118 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:48,119 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:48,119 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:48,120 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:48,120 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:48,121 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:48,125 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:48,126 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:48,126 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:48,130 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:48,131 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:48,131 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:48,140 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:48,141 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:48,141 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:48,157 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 09:40:48,157 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 09:40:48,157 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 09:40:52,417 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:40:52,417 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:40:52,422 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:40:52,423 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:41:40,925 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:41:40,926 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:41:40,945 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:41:40,945 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:41:51,102 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:41:51,102 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:41:51,111 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:41:51,112 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:42:01,840 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:42:01,840 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:42:01,843 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:42:01,844 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:44:29,465 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:44:29,465 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:47:19,491 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:47:19,492 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:47:19,495 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:47:19,495 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:47:24,697 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:47:24,697 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:47:24,705 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:47:24,705 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:47:27,723 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:47:27,724 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:47:27,733 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:47:27,734 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:48:12,147 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:48:12,147 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:48:12,151 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:48:12,152 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:48:15,862 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:48:15,863 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 09:48:15,867 - DEFAULT_LOGGER - INFO - task recieved <class 'dict'>
+2022-11-11 09:48:15,867 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-11 10:02:26,124 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:26,125 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:26,125 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:26,125 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:26,125 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:26,125 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:26,126 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:26,126 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:26,127 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:26,128 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:26,129 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:26,129 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:26,131 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:26,131 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:26,131 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:26,132 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:27,283 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:27,284 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:27,284 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:27,293 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:27,293 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:27,294 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:27,338 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:27,339 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:27,339 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:27,342 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:27,343 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:27,343 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:27,357 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:27,358 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:27,358 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:27,363 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:27,364 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:27,364 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:42,465 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:42,466 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:42,466 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:42,468 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:42,470 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:42,471 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:42,476 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:42,476 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:42,477 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:42,477 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:42,477 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:42,478 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:42,485 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:42,486 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:42,486 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:02:42,493 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:02:42,494 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:02:42,494 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:04,126 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:04,126 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:04,126 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:04,127 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:04,127 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:04,128 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:04,140 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:04,141 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:04,142 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:04,143 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:04,145 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:04,145 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:04,147 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:04,148 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:04,150 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:04,150 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:04,150 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:04,151 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:08,238 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:08,276 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:08,285 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:08,290 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:08,302 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:08,303 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:08,309 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:08,342 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:08,345 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:08,348 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:08,356 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:08,360 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:08,376 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:08,418 - DEFAULT_LOGGER - INFO - init logger
+2022-11-11 10:05:08,453 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-11 10:05:08,457 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:08,464 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-11 10:05:08,487 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:37:31,458 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:37:31,458 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:37:31,458 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:41:37,381 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:41:37,382 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:41:37,382 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:41:37,382 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:41:37,382 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:41:37,382 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:41:37,382 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:41:37,383 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:41:37,383 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:41:37,396 - DEFAULT_LOGGER - INFO - root api triggered
+2022-11-12 14:41:37,396 - DEFAULT_LOGGER - INFO - inserting data: {'event': 'root_call'}
+2022-11-12 14:41:37,419 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False, 'time_recorded': 0}
+2022-11-12 14:44:50,245 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:50,246 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:50,246 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:50,247 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:50,247 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:50,248 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:50,253 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:50,255 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:50,255 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:50,264 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:50,265 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:50,265 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:52,753 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:52,753 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:52,754 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:52,754 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:52,754 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:52,754 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:52,758 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:52,759 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:52,759 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:52,771 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:44:52,772 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:44:52,772 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:44:56,614 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 79282, 'task_active': True}
+2022-11-12 14:45:05,127 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 79282, 'task_active': True}
+2022-11-12 14:45:20,819 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:45:46,294 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:45:46,295 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:45:46,295 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:45:46,307 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:45:46,308 - DEFAULT_LOGGER - INFO - init logger
+
+2022-11-12 14:45:46,308 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:45:46,308 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:45:46,309 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:45:46,311 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:45:46,312 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:45:46,312 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:45:51,053 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:45:51,054 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:25,326 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:25,326 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:34,629 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:34,630 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:40,134 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:46:40,134 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:46:40,134 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:46:40,134 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:46:40,135 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:46:40,136 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:46:40,137 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:46:40,137 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:46:40,146 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 14:46:40,146 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 14:46:40,147 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 14:46:43,061 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:43,062 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:50,650 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 14:46:50,650 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 15:21:33,369 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:21:33,370 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:21:34,338 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:21:34,338 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 2, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:23:20,401 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 15:23:20,401 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 15:23:53,252 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 15:23:53,252 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 15:24:04,290 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 15:24:04,290 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 15:24:04,291 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 15:24:04,291 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 15:24:04,291 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 15:24:04,291 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 15:24:04,291 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 15:24:04,291 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 15:24:04,291 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 15:24:04,292 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 15:24:08,124 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 15:24:08,124 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'frozen', 'task_priority': 'today', 'timeStamp': 6672, 'task_active': True}
+2022-11-12 15:29:26,628 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 15:29:26,629 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 15:29:26,629 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 15:30:07,940 - DEFAULT_LOGGER - INFO - init logger
+2022-11-12 15:30:07,941 - DEFAULT_LOGGER - INFO - init_tiny_db
+2022-11-12 15:30:07,941 - DEFAULT_LOGGER - INFO - init webapp
+2022-11-12 15:30:46,351 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 3, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:30:46,351 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 3, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:31:37,350 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:31:37,351 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:31:39,850 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 10748, 'task_active': True}
+2022-11-12 15:31:39,850 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 10748, 'task_active': True}
+2022-11-12 15:31:45,483 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 10748, 'task_active': True}
+2022-11-12 15:31:45,483 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'micha', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 10748, 'task_active': True}
+2022-11-12 15:32:41,634 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:32:41,635 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:33:43,970 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:33:43,970 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:33:45,545 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:33:45,545 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:33:54,075 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:33:54,076 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 15:34:05,913 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 5041, 'task_active': True}
+2022-11-12 15:34:05,914 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': 'test', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 5041, 'task_active': True}
+2022-11-12 16:23:52,003 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 16:23:52,004 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 0, 'task_active': False}
+2022-11-12 16:24:01,686 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 168658, 'task_active': False}
+2022-11-12 16:24:01,686 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 168658, 'task_active': False}
+2022-11-12 16:25:02,627 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 168658, 'task_active': False}
+2022-11-12 16:25:02,628 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 168658, 'task_active': False}
+2022-11-12 16:25:04,270 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 168658, 'task_active': False}
+2022-11-12 16:25:04,270 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 3, 'task_name': '', 'task_status': 'started', 'task_priority': 'today', 'timeStamp': 168658, 'task_active': False}
+2022-11-12 16:37:15,059 - DEFAULT_LOGGER - INFO - task recieved {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 73868, 'task_active': False}
+2022-11-12 16:37:15,060 - DEFAULT_LOGGER - INFO - inserting data: {'task_event_id': 0, 'task_id': 1, 'task_name': '', 'task_status': 'pending', 'task_priority': 'na', 'timeStamp': 73868, 'task_active': False}

@@ -1,11 +1,28 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 import logging
 from  scripts.configuration import load_config,setup_logger
 from scripts.tdb import TINYDB
 from pydantic import BaseModel
 from datetime import datetime
 
+
 app = FastAPI()
+origins = [
+    "http://localhost",
+    "http://localhost:3000",
+    "http://localhost:8080",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
 
 config = load_config()
 setup_logger(config)
@@ -26,14 +43,14 @@ class Task(BaseModel):
     task_name: str
     task_status: str
     task_priority: str
-    timeStamp: datetime
+    timeStamp: int
     task_active: bool
-    time_recorded: int
 
-@app.post("/log_task/")
+
+@app.post("/log_task")
 async def log_task(task: Task):
-    logger.info(f"task recieved {task}")
-    tiny.insert(task)
+    logger.info(f"task recieved {(dict(task))}")
+    tiny.insert(dict(task))
     return task
 
 @app.get("/all_tasks/")

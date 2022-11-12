@@ -9,14 +9,14 @@ const App = () => {
 
   
   const createTaskHandler = ()=>{
-    setTaskArray(taskArray.concat(<Task ID={taskID} key={taskID}/>));
-    setTaskID(taskID + 1)
+    setTaskArray(ta => [...ta, <Task ID={taskID} key={taskID}/>])
+    setTaskID(tid => tid + 1)
   }
   
   return (
     <div className="app">
       <div className="ctrls">
-      <button className="button" onClick={createTaskHandler}>create task</button>
+      <button className="button" onClick={()=>{createTaskHandler()}}>create task</button>
       <select className="button" id="query">
               <option value="all">all</option>
               <option value="started">started</option>

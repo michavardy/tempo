@@ -8,43 +8,53 @@ const initialState = {
   timerOn:false,
   status:"pending",
   priority:"na",
-  timeStamp:null,
+  timeStamp:0,
+  time:0
 }
 
 export default function Task(props){
-  const [time,setTime] = useState(0)
-  const [post,setPost] = useState(0)
+
   const [state, dispatch] = useReducer(reducer, initialState)
   state.taskID = props.ID
   const timerID = useRef(0)
 
   useEffect(()=>{
-    if (!state.timerOn){return}
-    timerID.current = setInterval(setTime(()=>{time+1}), 1000);
+    if (!state.timerOn) {
+      return;
+    }
+    timerID.current = setInterval(()=>{
+      dispatch({ type: "setTime" });
+      console.log(state.time);
+      }, 1000);
+
     return ()=>{
+      console.log(state)
       clearInterval(timerID.current);
       timerID.current=0;
     };
   },[state.timerOn])
 
-  //useEffect(() => {
-  //  // POST request using fetch inside useEffect React hook
-  //  const requestOptions = {
-  //      method: 'POST',
-  //      headers: { 'Content-Type': 'application/json' },
-  //      body: JSON.stringify({ 
-  //        task_event_id: 0,
-  //        task_id: state.taskID,
-  //        task_name: state.task_name,
-  //        task_status: state.status,
-  //        task_priority: state.priority,
-  //        timeStamp: state.timeStamp,
-  //        task_active: state.timerOn,
-  //        time_recorded: time
-  //       })
-  //  };
-  //  fetch('http://localhost:8000/', requestOptions)
-  //  }, [post]);
+  const sendPost = (event) => {
+    
+    // POST request using fetch inside useEffect React hook
+    const requestOptions = {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+          task_event_id: 0,
+          task_id: state.taskID,
+          task_name: state.task_name,
+          task_status: state.status,
+          task_priority: state.priority,
+          timeStamp: state.timeStamp,
+          task_active: state.timerOn,
+         })
+    };
+    
+    fetch('http://localhost:8000/log_task', requestOptions)
+    .then(response => console.log(response))
+ 
+    }
 
 
 
@@ -76,10 +86,23 @@ export default function Task(props){
               <option value="na">not applicable</option>
             </select>
         </div>
-        <div className="task_field">
-          <label>submit</label>
-          <button onClick={setPost("click")}>submit</button>
+        <div className="submit">
+          <button onClick={(event)=>sendPost(event)}>submit</button>
         </div>
+
+        <div className="time_disp">
+        <div className="task_field">
+          <label>{secondsToTime(state.time).h}h</label>
+        </div>
+        <div className="task_field">
+          <label>{secondsToTime(state.time).m}m</label>
+        </div>
+        <div className="task_field">
+          <label>{secondsToTime(state.time).s}s</label>
+        </div>
+        </div>
+
+
 
     </div>
   )
@@ -96,6 +119,27 @@ function reducer(state, action){
       return{...state, status:action.payload}
     case "priority":
       return{...state, priority:action.payload}
+    case "setTime":
+      return{...state, time: state.time + 1 }
   }
+}
+
+function secondsToTime(secs)
+{
+    secs = Math.round(secs);
+    var hours = Math.floor(secs / (60 * 60));
+
+    var divisor_for_minutes = secs % (60 * 60);
+    var minutes = Math.floor(divisor_for_minutes / 60);
+
+    var divisor_for_seconds = divisor_for_minutes % 60;
+    var seconds = Math.ceil(divisor_for_seconds);
+
+    var obj = {
+        "h": hours,
+        "m": minutes,
+        "s": seconds
+    };
+    return obj;
 }
 
